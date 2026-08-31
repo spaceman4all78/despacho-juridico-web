@@ -1,2 +1,19 @@
-/* Varoables de color */
-:root 
+
+/*variables de color*/
+:root {
+    --negro: #0d0d0d;
+    --negro-suave: #1a1a1a;
+    --dorado: #c9a227;
+    --dorado-claro: #c9a227;
+    --blanco: #ffffff;
+    --gris-claro: #f0f0f0;
+    --gris-texto: #2b2b2b;
+}
+
+/* Reset basico */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
