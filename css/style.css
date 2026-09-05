@@ -224,3 +224,22 @@ width: 80px;
 height: 3px;
 background-color: var(--dorado);
 }
+
+/* Nosotros */
+.nosotros {
+    padding: 4rem 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;       
+}
+
+.nosotros h2 {
+    font-size: 2rem;
+    color: var(--negro);
+    margin-bottom: 1,5rem;
+}
+
+.nosotros p{
+    font-size: 1.1rem;
+    color: var(--gris-texto);
+}
